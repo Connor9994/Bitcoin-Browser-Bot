@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run ".\Files\Browser.bat", 0, True
