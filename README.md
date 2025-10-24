@@ -8,8 +8,6 @@ Buy/Sell Micro-amounts 24/7
 
 ![2](https://github.com/Connor9994/Bitcoin-Browser-Bot/blob/main/Photos/2.png)
 
-![3](https://github.com/Connor9994/Bitcoin-Browser-Bot/blob/main/Photos/3.png)
-
 ## Overview
 
 This script creates a Windows GUI application that automates Bitcoin trading by analyzing market trends through both traditional data points and innovative screen scraping techniques. The bot monitors price movements, calculates ratios, and executes trades based on custom algorithmic conditions.
@@ -86,6 +84,8 @@ This script creates a Windows GUI application that automates Bitcoin trading by 
 3. Click "Start" to initialize the trading bot
 4. Monitor through the GUI interface
 5. Press `F12` to stop the bot
+
+![3](https://github.com/Connor9994/Bitcoin-Browser-Bot/blob/main/Photos/3.png)
 
 ## Important Notes
 
